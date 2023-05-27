@@ -1,5 +1,8 @@
+import Catalog from "./Pages/Catalog";
+import "./styles/main.css"
+
 function App() {
-  return <></>;
+  return <Catalog />;
 }
 
 export default App;
